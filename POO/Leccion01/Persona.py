@@ -1,12 +1,12 @@
 class Persona:
     
-    def __init__(self):
-        self.nombre = 'Juan'
-        self.apellido = 'Perez'
-        self.edad = 28
+    def __init__(self, nombre, apellido, edad):
+        self.nombre = nombre
+        self.apellido = apellido
+        self.edad = edad
 
 
-persona1 = Persona()
+persona1 = Persona('Juan', 'Perez', 28)
 print(persona1.nombre)
 print(persona1.apellido)
 print(persona1.edad)
