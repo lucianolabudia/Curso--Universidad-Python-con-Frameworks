@@ -26,3 +26,10 @@
 * Uso de Módulos y Clases en Python
 * Comprobación del Módulo Principal en Python
 * Destructor de Objetos en Python
+
+### Herencia en Python
+* Introducción a Herencia en Python
+* Ejemplo de Herencia en Python
+* Sobreescritura del método __str__() en Python
+* Ejercicio Propuesto: Uso de Herencia
+* Solución Ejercicio: Herencia
