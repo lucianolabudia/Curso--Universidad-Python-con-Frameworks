@@ -17,3 +17,12 @@
 * Ejercicio Rectangulo
 * Ejercicio Cubo
 * Robusteciendo el Método Init
+
+### Encapsulamiento en Python
+* Encapsulamiento en Python
+* Métodos Get y Set en Python
+* Atributos read-only (sólo lectura) en Python
+* Encapsulando todos los Atributos de una Clase
+* Uso de Módulos y Clases en Python
+* Comprobación del Módulo Principal en Python
+* Destructor de Objetos en Python
