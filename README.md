@@ -33,3 +33,10 @@
 * Sobreescritura del método __str__() en Python
 * Ejercicio Propuesto: Uso de Herencia
 * Solución Ejercicio: Herencia
+
+### Herencia Multiple en Python
+* Herencia Múltiple en Python
+* Método MRO - Method Resolution Order en Python
+* Laboratorio Figura Geométrica
+* Solución Laboratorio Figura Geométrica
+* Validaciones Aplicación de Figura Geométrica
